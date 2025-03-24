@@ -1,0 +1,6 @@
+pandas
+conda install -c dglteam dgl
+networkx
+random
+conda install pytorch==2.3.0 torchvision==0.18.0 torchaudio==2.3.0 cpuonly -c pytorch
+torchdata==0.9.0
